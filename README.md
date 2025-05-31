@@ -8,7 +8,7 @@ Este projeto tem como objetivo realizar uma análise exploratória e construir m
 
 A análise busca entender como fatores como localização, número de cômodos, idade da casa, proximidade do oceano e renda média da vizinhança influenciam o valor mediano das casas. Diversos algoritmos de machine learning são aplicados e comparados, tanto com quanto sem transformação logarítmica da variável alvo, para determinar o modelo com melhor desempenho na previsão dos preços.
 
-## Conteúdo do Notebook (`regressao_housing.ipynb`)
+## Etapas do projeto 
 
 O notebook Jupyter (`regressao_housing.ipynb`) está estruturado da seguinte forma:
 
